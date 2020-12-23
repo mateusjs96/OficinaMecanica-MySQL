@@ -1,7 +1,7 @@
 -- Apaga e recria o banco de dados
 USE mysql;
 
-DROP DATABASE OficinaMecanica;
+DROP DATABASE IF EXISTS OficinaMecanica;
 
 
 -- Criação do banco de dados OficinaMecanica
