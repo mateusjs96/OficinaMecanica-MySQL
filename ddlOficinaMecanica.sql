@@ -3,7 +3,6 @@ USE mysql;
 
 DROP DATABASE IF EXISTS OficinaMecanica;
 
-
 -- Criação do banco de dados OficinaMecanica
 CREATE DATABASE OficinaMecanica;
 
